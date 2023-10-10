@@ -1,0 +1,26 @@
+{
+    "name": "be-router",
+    "version": "1.0.0",
+    "description": "## Description",
+    "main": "server.js",
+    "scripts": {
+        "test": "jest",
+        "start": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/herbertnikolajewskidci/BE-Router.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/herbertnikolajewskidci/BE-Router/issues"
+    },
+    "homepage": "https://github.com/herbertnikolajewskidci/BE-Router#readme",
+    "dependencies": {
+        "express": "^4.18.2",
+        "jest": "^29.5.0",
+        "supertest": "^6.3.3"
+    }
+}
